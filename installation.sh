@@ -10,7 +10,7 @@ sudo pip install --upgrade pip
 
 sudo pip install jupyter
 
-sudo pip install psycopg2-binary
+sudo apt install python3-psycopg2
 
 sudo pip install pandas
 
