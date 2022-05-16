@@ -1,1 +1,1 @@
-https://iot-zeiss2022-0.azurewebsites.net/setup
+https://iot-zeiss2022-1.azurewebsites.net/setup
